@@ -20,6 +20,9 @@ The checkpoint models are saved at ./checkpoints/exp_models. Tensorboard logs ar
 ```
 The visible dialogue results and quantitative matrics are showed on terminal.
 
+## DX dataset
+The DX dataset is available in [Google Could](https://drive.google.com/file/d/19WrAIH1fyJ8BTdsahU-LycTsYnPhUt2n/view?usp=sharing)
+
 
 ## Reference
 ```
